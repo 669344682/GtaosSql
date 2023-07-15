@@ -1,5 +1,5 @@
 # GtaosSql
-![GtaosSQL](https://forum.gtaos.com/index.php?attachments/1689440716313-png.507)  
+![GtaosSQL](https://forum.gtaos.com/index.php?attachments/1689440716313.png)  
 
 简易的mysql查询工具  
 Simplified Mysql Query tool  
