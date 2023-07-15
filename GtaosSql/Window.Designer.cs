@@ -182,7 +182,7 @@
             Controls.Add(menuStrip1);
             MainMenuStrip = menuStrip1;
             Name = "Window";
-            Text = "GTAOS.COM简易数据库查询软件";
+            Text = "GtaosSQL简易数据库查询软件(GTAOS.COM)";
             menuStrip1.ResumeLayout(false);
             menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

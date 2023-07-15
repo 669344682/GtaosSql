@@ -170,8 +170,8 @@ namespace GtaosSql
                     //读取数据库表格
                     string query = $"SELECT * FROM {selectedNode.Text}";
                     MySqlCommand command = new(query, mysqlConnections);
-                    MySqlDataAdapter adapter = new (command);
-                    DataTable dataTable = new ();
+                    MySqlDataAdapter adapter = new(command);
+                    DataTable dataTable = new();
 
                     adapter.Fill(dataTable);
                     dataGridView1.DataSource = dataTable;
