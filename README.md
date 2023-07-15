@@ -1,5 +1,6 @@
 # GtaosSql
-<img src="https://forum.gtaos.com/index.php?attachments/1689440716313-png.507/" alt="软件图片" width="200" height="150"/>
+![image](https://github.com/669344682/GtaosSql/assets/7806033/c03e2925-4ee9-4d38-ba9e-34f5e36d3699)
+
 
 简易的mysql查询工具  
 Simplified Mysql Query tool  
