@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GtaosSql", "GtaosSql\GtaosSql.csproj", "{037364D3-EB8C-4456-8422-CFD95CE063AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037364D3-EB8C-4456-8422-CFD95CE063AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037364D3-EB8C-4456-8422-CFD95CE063AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037364D3-EB8C-4456-8422-CFD95CE063AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037364D3-EB8C-4456-8422-CFD95CE063AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6380A0D7-6AC7-4365-A8A9-69A6F8B1C30C}
+	EndGlobalSection
+EndGlobal
